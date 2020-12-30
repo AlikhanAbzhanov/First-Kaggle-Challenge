@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-In this Google Colab Notebook, I would like to share my solution for Kaggle's Titanic Problem.
+In this Google Colab Notebook, I would like to share my data analysis and predictions for Kaggle's Titanic Problem.
